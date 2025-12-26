@@ -1,0 +1,2 @@
+# zMaticooiOSMaxAdapter
+zMaticooiOSMaxAdapter
